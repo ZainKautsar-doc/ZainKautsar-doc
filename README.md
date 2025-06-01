@@ -5,7 +5,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cpp,python,mysql,figma)
 
 
-<img align="right" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47wqo05rz4s1q5pjp22trv401gi60o1tt8usr0pa5y&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kcjFyaHh6djg2d2c1YXhpN285NzN3OWhrNDhoNGMzcXc1enRxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 
 ### Let's Connect!
