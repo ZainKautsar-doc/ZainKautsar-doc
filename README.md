@@ -1,4 +1,3 @@
-## Hi there!👋
 ![Zain Kautsar](img/github-header-image.png)
 
 #### Skills
