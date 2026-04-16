@@ -1,6 +1,3 @@
-![Zain Kautsar](img/github-header-image.png)
-
-<h1 align="center">Hi 👋, I'm Zain Kautsar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Zain+Kautsar+Ridha;Informatics+Student+and+Software+Developer;Frontend+Developer+with+Fullstack+Capabilities;Building+Modern+and+Scalable+Web+Applications;Passionate+about+UI%2FUX+and+Clean+Code+Practices;Focused+on+System+Design+and+Application+Architecture;Problem+Solver+and+Continuous+Learner;Working+with+JavaScript%2C+Node.js%2C+and+Databases;Exploring+AI+and+Modern+Web+Technologies;Turning+Ideas+into+Real+World+Solutions;Always+Improving%2C+One+Step+at+a+Time;Consistency+Beats+Talent+When+Talent+Doesn%27t+Work+Hard;Learning+Never+Stops+in+the+World+of+Technology" />
@@ -28,6 +25,7 @@
 
 ###
 
+![Zain Kautsar](img/github-header-image.png)
 
 <!-- <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kcjFyaHh6djg2d2c1YXhpN285NzN3OWhrNDhoNGMzcXc1enRxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  /> -->
 
