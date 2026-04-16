@@ -42,7 +42,7 @@
 - 💬 Ask me about **JavaScript, React, Node.js, Database Design, and Web Development**
 
 - 🚀 Currently focused on improving **coding skills, clean architecture, and real project experience**
-  <img align="right" height="120" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
+  <picture><img align="right" height="120" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  /></picture>
 
 - 🌐 Check out my portfolio: https://www.zainkautsar.my.id/
 
@@ -93,19 +93,10 @@
 
 <!-- ================= FOOTER GIF ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
+  <picture><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" /></picture>
 </p>
 
 
-<!-- ================= OPTIONAL / COMMENTED SECTION ================= -->
-<!-- ### My Github Stats
-
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zainkautsar-doc&show_icons=true&theme=tokyonight) -->
-
 <br clear="both">
-
-
-<!-- ================= OPTIONAL SNAKE (DISABLED) ================= -->
-<!-- <img src="https://raw.githubusercontent.com/ZainKautsar-doc/ZainKautsar-doc/output/snake.svg" alt="Snake animation" /> -->
 
 ###
