@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Zain Kautsar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+###
+
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Zain+Kautsar+Ridha;Informatics+Student+and+Software+Developer;Frontend+Developer+with+Fullstack+Capabilities;Building+Modern+and+Scalable+Web+Applications;Passionate+about+UI%2FUX+and+Clean+Code+Practices;Focused+on+System+Design+and+Application+Architecture;Problem+Solver+and+Continuous+Learner;Working+with+JavaScript%2C+Node.js%2C+and+Databases;Exploring+AI+and+Modern+Web+Technologies;Turning+Ideas+into+Real+World+Solutions;Always+Improving%2C+One+Step+at+a+Time;Consistency+Beats+Talent+When+Talent+Doesn%27t+Work+Hard;Learning+Never+Stops+in+the+World+of+Technology" />
@@ -9,7 +13,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZainKautsar-doc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ZainKautsar-doc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ZainKautsar-doc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainKautsar-doc&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
