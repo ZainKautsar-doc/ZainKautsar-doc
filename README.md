@@ -14,11 +14,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Zain+Kautsar+Ridha;Informatics+Student+and+Software+Developer;Frontend+Developer+with+Fullstack+Capabilities;Building+Modern+and+Scalable+Web+Applications;Passionate+about+UI%2FUX+and+Clean+Code+Practices;Focused+on+System+Design+and+Application+Architecture;Problem+Solver+and+Continuous+Learner;Working+with+JavaScript%2C+Node.js%2C+and+Databases;Exploring+AI+and+Modern+Web+Technologies;Turning+Ideas+into+Real+World+Solutions;Always+Improving%2C+One+Step+at+a+Time;Consistency+Beats+Talent+When+Talent+Doesn%27t+Work+Hard;Learning+Never+Stops+in+the+World+of+Technology" />
 </a>
 </p>
-<img 
+<picture><img 
   align="right" 
   src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
   width="60"
-/>
+/></picture>
 
 ###
 
