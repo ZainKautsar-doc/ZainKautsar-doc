@@ -4,19 +4,46 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Zain+Kautsar+Ridha;Informatics+Student+and+Software+Developer;Frontend+Developer+with+Fullstack+Capabilities;Building+Modern+and+Scalable+Web+Applications;Passionate+about+UI%2FUX+and+Clean+Code+Practices;Focused+on+System+Design+and+Application+Architecture;Problem+Solver+and+Continuous+Learner;Working+with+JavaScript%2C+Node.js%2C+and+Databases;Exploring+AI+and+Modern+Web+Technologies;Turning+Ideas+into+Real+World+Solutions;Always+Improving%2C+One+Step+at+a+Time;Consistency+Beats+Talent+When+Talent+Doesn%27t+Work+Hard;Learning+Never+Stops+in+the+World+of+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Zain+Kautsar+Ridha;Informatics+Student+and+Software+Developer;Frontend+Developer+with+Fullstack+Capabilities;Building+Modern+and+Scalable+Web+Applications;Passionate+about+UI%2FUX+and+Clean+Code+Practices;Focused+on+System+Design+and+Application+Architecture;Problem+Solver+and+Continuous+Learner;Working+with+JavaScript%2C+Node.js%2C+and+Databases;Exploring+AI+and+Modern+Web+Technologies;Turning+Ideas+into+Real+World+Solutions;Always+Improving%2C+One+Step+at+a+Time;Consistency+Beats+Talent+When+Talent+Doesn%27t+Work+Hard;Learning+Never+Stops+in+the+World+of+Technology" />
 </a>
 </p>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zainkautsarridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilham-sidik-saksena" height="30" width="40" /></a>
-<a href="https://instagram.com/zainzenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammm.70" height="30" width="40" /></a>
-</p>
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kcjFyaHh6djg2d2c1YXhpN285NzN3OWhrNDhoNGMzcXc1enRxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-  
+## <b> Let's Connect..!</b>
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/zainkautsarridha" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  ZainKautsarRidha-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://instagram.com/zainzenn" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  zainzenn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:zainkautsarridha@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  zainkautsarridha@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 ###
 
 <div align="center">
@@ -38,9 +65,6 @@
 ###
 
 ![Zain Kautsar](img/github-header-image.png)
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kcjFyaHh6djg2d2c1YXhpN285NzN3OWhrNDhoNGMzcXc1enRxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
 
 
 <!-- ### My Github Stats
