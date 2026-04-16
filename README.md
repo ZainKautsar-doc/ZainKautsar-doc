@@ -15,14 +15,14 @@
 <a href="https://linkedin.com/in/zainkautsarridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilham-sidik-saksena" height="30" width="40" /></a>
 <a href="https://instagram.com/zainzenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammm.70" height="30" width="40" /></a>
 </p>
-
+  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kcjFyaHh6djg2d2c1YXhpN285NzN3OWhrNDhoNGMzcXc1enRxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZainKautsar-doc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ZainKautsar-doc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainKautsar-doc&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kcjFyaHh6djg2d2c1YXhpN285NzN3OWhrNDhoNGMzcXc1enRxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
