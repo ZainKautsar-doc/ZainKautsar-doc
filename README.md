@@ -76,7 +76,7 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZainKautsar-doc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=ZainKautsar-doc&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainKautsar-doc&bg_color=0d1117&color=ffffff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainKautsar-doc&bg_color=0d1117&color=ffffff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"  /> -->
 </div>
 <br>
 <p align="center">
